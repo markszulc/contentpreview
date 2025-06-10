@@ -1,6 +1,6 @@
-# contentpreview
+# Content Preview
 
-Welcome to my Adobe I/O Application!
+This is the v2 iteration of the CFPreview app to preview content fragments visually from Adobe Experience Manager (AEM)
 
 ## Setup
 
